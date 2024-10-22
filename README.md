@@ -8,7 +8,7 @@ I have extensive experience in Geographic Information Systems (GIS), particularl
 - **Custom Geoprocessing Tools:** Developed tools for automating GIS workflows using Python.
 - **Python for GIS:** Skilled in libraries such as ArcPy, GeoPandas, and Shapely for geospatial data manipulation and analysis.
 
-## Master's in Data Analytics
+## Pursuing a Master's in Data Analytics
 I'm currently pursuing a **Master's in Data Analytics**. A key course I am currently taking is **Continuous Intelligence and Interactive Analytics**, which focuses on:
 
 - **Continuous Intelligence:** Leveraging real-time data processing to drive insights and decisions from streaming data.
